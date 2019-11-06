@@ -1,0 +1,153 @@
+/*
+################
+               Start Select Multi Form
+################
+*/
+/* form button multi-select */
+.multi-button-clavents-select-option {
+    padding: 8px 10px;
+    background: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #818181;
+    font-family: sans-serif;
+    outline: none;
+    transition: all .3s ease-in-out;
+}
+.multi-button-clavents-select-option:hover {
+    background: #818181;
+    color: #fff;
+}
+.multi-button-block-clavents-select-option {
+    display: block;
+    width: 100%;
+}
+/* untuk memunculkan dan menghilangkan kotak option */
+.multi-hide-clavents-option {
+    display: none;
+}
+
+/* select css */
+.multi-select-clavents-option {
+    position: relative;
+    display: block;
+}
+.multi-select-clavents-option button {
+    background: #f2f2f2;
+    border: 1px solid #ccc;
+    color: #818181;
+    text-align: left;
+}
+.multi-select-clavents-option ul {
+    position: absolute;
+    padding: 0 15px;
+    margin: 0;
+    list-style: none;
+    background: #f2f2f2;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 0px 10px 10px 2px rgba(0,0,0,.09);
+    border: 1px solid #ccc;
+    border-top: none;
+    top: auto;
+}
+.multi-select-clavents-option ul li {
+    float: left;
+    width: 33.333%;
+}
+.multi-select-clavents-option ul li a {
+    display: block;
+    font-size: 12px;
+    padding: 10px 0;
+    color: #818181;
+    font-weight: 600;
+    /* text-align: center; */
+    font-family: sans-serif;
+    text-decoration: none !important;
+    transition: all .2s ease-in-out;
+}
+.multi-select-clavents-option ul li a:hover, 
+.multi-select-clavents-option ul li.active a {
+    color: #2aabe4;
+}
+
+/* Option Icon css */
+.multi-option-clavents-icon {
+    width: 40px;
+    height: 40px;
+    background-size: 40px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.multi-option-clavents-icon-bazaar {
+    background-image: url("../img/icon-kategori/icon-bazaar.png");
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+.multi-option-clavents-icon-bazaar:hover, 
+.multi-select-clavents-option ul li a:hover .multi-option-clavents-icon-bazaar, 
+.multi-select-clavents-option ul li.active a .multi-option-clavents-icon-bazaar {
+    background-image: url("../img/icon-kategori/icon-bazaar.png");
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+}
+.multi-option-clavents-icon-job_fair {
+    background-image: url("../img/icon-kategori/icon-jobfair.png");
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+.multi-option-clavents-icon-job_fair:hover, 
+.multi-select-clavents-option ul li a:hover .multi-option-clavents-icon-job_fair, 
+.multi-select-clavents-option ul li.active a .multi-option-clavents-icon-job_fair {
+    background-image: url("../img/icon-kategori/icon-jobfair.png");
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+}
+.multi-option-clavents-icon-lomba {
+    background-image: url("../img/icon-kategori/icon-lomba.png");
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+.multi-option-clavents-icon-lomba:hover, 
+.multi-select-clavents-option ul li a:hover .multi-option-clavents-icon-lomba, 
+.multi-select-clavents-option ul li.active a .multi-option-clavents-icon-lomba {
+    background-image: url("../img/icon-kategori/icon-lomba.png");
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+}
+.multi-option-clavents-icon-pameran {
+    background-image: url("../img/icon-kategori/icon-pameran.png");
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+.multi-option-clavents-icon-pameran:hover, 
+.multi-select-clavents-option ul li a:hover .multi-option-clavents-icon-pameran, 
+.multi-select-clavents-option ul li.active a .multi-option-clavents-icon-pameran {
+    background-image: url("../img/icon-kategori/icon-pameran.png");
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+}
+.multi-option-clavents-icon-seminar {
+    background-image: url("../img/icon-kategori/icon-seminar.png");
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+.multi-option-clavents-icon-seminar:hover, 
+.multi-select-clavents-option ul li a:hover .multi-option-clavents-icon-seminar, 
+.multi-select-clavents-option ul li.active a .multi-option-clavents-icon-seminar {
+    background-image: url("../img/icon-kategori/icon-seminar.png");
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+}
+                
+
+/*
+################
+               End Select Multi Form
+################
+*/

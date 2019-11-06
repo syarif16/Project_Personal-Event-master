@@ -1,0 +1,196 @@
+/* modal alert */
+/* margin jarak atas */
+.modal-alert-success-clavest .modal-dialog, 
+.modal-alert-duplikat-clavest .modal-dialog,
+.modal-alert-failed-clavest .modal-dialog
+{
+    margin: 100px auto;
+}
+/* modal header close */
+.modal-alert-success-clavest .modal-close-area.modal-close-df,
+.modal-alert-duplikat-clavest .modal-close-area.modal-close-df,
+.modal-alert-failed-clavest .modal-close-area.modal-close-df
+{
+    right: -20px;
+}
+.modal-alert-success-clavest .modal-close-area,
+.modal-alert-duplikat-clavest .modal-close-area,
+.modal-alert-failed-clavest .modal-close-area
+{
+    position: absolute;
+    top: -20px;
+}
+.modal-alert-success-clavest .modal-close-area .close,
+.modal-alert-duplikat-clavest .modal-close-area .close,
+.modal-alert-failed-clavest .modal-close-area .close
+{
+    opacity:1;
+}
+.modal-alert-success-clavest .modal-close-area a
+{
+    color: #fff;
+    font-size: 18px;
+    background: #03a9f4;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+    display: block;
+    border-radius: 50%;
+}
+.modal-alert-duplikat-clavest .modal-close-area a
+{
+    color: #fff;
+    font-size: 18px;
+    background: #f06211;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+    display: block;
+    border-radius: 50%;
+}
+.modal-alert-failed-clavest .modal-close-area a
+{
+    color: #fff;
+    font-size: 18px;
+    background: #f0140c;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+    display: block;
+    border-radius: 50%;
+}
+.modal-alert-success-clavest .modal-close-area a:hover,
+.modal-alert-duplikat-clavest .modal-close-area a:hover,
+.modal-alert-failed-clavest .modal-close-area a:hover
+{
+    color: #303030;
+}
+.modal-alert-success-clavest .modal-body .modal-check-clavest
+{
+    font-size:40px;
+    color:#03a9f4;
+    margin-bottom:30px;
+    display:block;
+}
+.modal-alert-duplikat-clavest .modal-body .modal-check-clavest
+{
+    font-size:40px;
+    color:#f06211;
+    margin-bottom:30px;
+    display:block;
+}
+.modal-alert-failed-clavest .modal-body .modal-check-clavest
+{
+    font-size:40px;
+    color:#f0140c;
+    margin-bottom:30px;
+    display:block;
+}
+/* modal body */
+.modal-alert-success-clavest .modal-body,
+.modal-alert-duplikat-clavest .modal-body,
+.modal-alert-failed-clavest .modal-body
+{
+    text-align:center;
+    padding:50px 0px;
+}
+
+.modal-alert-success-clavest .modal-body h2,
+.modal-alert-duplikat-clavest .modal-body h2,
+.modal-alert-failed-clavest .modal-body h2
+{
+    font-size:30px;
+}
+.modal-alert-success-clavest .modal-body p,
+.modal-alert-duplikat-clavest .modal-body p,
+.modal-alert-failed-clavest .modal-body p
+{
+    line-height:30px;
+    font-size:14px;
+    font-weight:400;
+    margin:0px;
+}
+/* modal footer */
+
+.modal-alert-success-clavest .modal-footer,
+.modal-alert-duplikat-clavest .modal-footer,
+.modal-alert-failed-clavest .modal-footer
+{
+    border-top:0px solid #fff;
+}
+
+.modal-alert-success-clavest .modal-footer a,
+.modal-alert-duplikat-clavest .modal-footer a,
+.modal-alert-failed-clavest .modal-footer a
+{
+    font-weight: bold;
+    padding: 13px 25px;
+    text-decoration: none;
+    color: #fff;
+    position: relative;
+    z-index: 11;
+    font-size: 20px;
+    display:inline-block;
+}
+.modal-alert-success-clavest .modal-footer a:before
+{
+    border-radius: 5%;
+    background: #03a9f4;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 45px;
+    z-index: -1;
+    content: "";
+    width:100px;
+}
+.modal-alert-duplikat-clavest .modal-footer a:before
+{
+    border-radius: 5%;
+    background: #f06211;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 45px;
+    z-index: -1;
+    content: "";
+    width:100px;
+}
+.modal-alert-failed-clavest .modal-footer a:before
+{
+    border-radius: 5%;
+    background: #f0140c;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 45px;
+    z-index: -1;
+    content: "";
+    width:100px;
+}
+.modal-alert-success-clavest .modal-footer a:after,
+.modal-alert-duplikat-clavest .modal-footer a:after,
+.modal-alert-failed-clavest .modal-footer a:after
+{
+    background: #303030;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 0px;
+    z-index: -1;
+    content: "";
+    opacity:0;
+    transition: all 0.3s ease 0s;
+    width:100px;
+}
+.modal-alert-success-clavest .modal-footer a:hover:after,
+.modal-alert-duplikat-clavest .modal-footer a:hover:after,
+.modal-alert-failed-clavest .modal-footer a:hover:after
+{
+    opacity:1;
+    height: 45px;
+    transition: all 0.3s ease 0s;
+}
