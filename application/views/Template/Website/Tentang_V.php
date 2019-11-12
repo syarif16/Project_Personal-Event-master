@@ -18,18 +18,10 @@
 			
 			<div class="row d-flex justify-content-center">
 				<div class="col-md-8 pb-40 header-text">
-					<h1>Tentang Kami</h1>
+					<h1><img src="<?php echo base_url(); ?>assets/website/img/logo/logobose2.png"/></h1>
 					<div class="single-feature">
 						<p>
-							CLAVEST adalah suatu platform berbentuk website yang bertujuan untuk memberikan informasi mengenai seluruh penyelenggaraan event yang ada di Indonesia. Kami memberikan informasi mengenai event mulai dari deskripsi, tanggal, jam dan alamat event tersebut.
-						</p>
-						<br>
-						<p>
-							Selain itu kami memberikan fitur bagi anda yang ingin membuat posting event di website kami secara gratis tanpa melakukan registrasi. Jadi tanpa adanya registrasi anda bisa langsung membuat event.
-						</p>
-						<br>
-						<p>
-							Dan juga kalian bisa subscribe website kami dengan memasukkan email anda, agar mendapatkan informasi terbaru dari kami.
+							BOSEVENT adalah sebuah website yang bergerak dibidang layanan yang berkaitan dengan segala event yang ada, untuk membantu anda dalam mempromosikan event, mencari informasi event-event terbaru, terpopuler, membantu anda dalam pengelolaan penjualan tiket online dan menyediakan informasi EO(Event Organizer Professional) untuk anda yang kesusahan membuat event/ bingung mencari EO (Event Organizer). Website ini, juga menyediakan informasi mengenai perusahaan atau instansi-instansi yang siap untuk diajak bekerjasama sebagai sponsor dalam event anda dengan persayaratan atau ketentuan dari masing-masing perusahaan atau instansi, yang telah disediakan dalam website kami. (OCA)
 						</p>
 					</div>
 				</div>

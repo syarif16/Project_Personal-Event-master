@@ -151,103 +151,139 @@
 
 					<div class="single-popular-post">
 						<a href="">
-							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt="">
-							<hr style="background: #fff;">
+						<table>
+							<tr>
+							<td style="padding: 20px">	
+							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt=""></td>
+							<td>
 							<h4>Nama Event</h4>
 							<h6>Kategori Event</h6>
 							<p class="post-text">
 								deskripsi event 100 kata (Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temporinc ididunt ut dolore magna aliqua.)
 							</p>
-							<hr style="background: #fff;">
+							</td>
+<!-- 							<hr style="background: #fff;">
 							<p class="post-text"><span class="lnr lnr-database"></span> tanggal</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> jam</p>
 							<p class="post-text"><span class="lnr lnr-map"></span> alamat</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> penyelengara</p>
+ -->							</tr>
+							</table>
 						</a>
 					</div>
 
 					<div class="single-popular-post">
 						<a href="">
-							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt="">
-							<hr style="background: #fff;">
+						<table>
+							<tr>
+							<td style="padding: 20px">	
+							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt=""></td>
+							<td>
 							<h4>Nama Event</h4>
 							<h6>Kategori Event</h6>
 							<p class="post-text">
 								deskripsi event 100 kata (Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temporinc ididunt ut dolore magna aliqua.)
 							</p>
-							<hr style="background: #fff;">
+							</td>
+<!-- 							<hr style="background: #fff;">
 							<p class="post-text"><span class="lnr lnr-database"></span> tanggal</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> jam</p>
 							<p class="post-text"><span class="lnr lnr-map"></span> alamat</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> penyelengara</p>
-						</a>
+ -->							</tr>
+							</table>
+						</a>	
 					</div>
 					
 					<div class="single-popular-post">
 						<a href="">
-							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt="">
-							<hr style="background: #fff;">
+						<table>
+							<tr>
+							<td style="padding: 20px">	
+							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt=""></td>
+							<td>
 							<h4>Nama Event</h4>
 							<h6>Kategori Event</h6>
 							<p class="post-text">
 								deskripsi event 100 kata (Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temporinc ididunt ut dolore magna aliqua.)
 							</p>
-							<hr style="background: #fff;">
+							</td>
+<!-- 							<hr style="background: #fff;">
 							<p class="post-text"><span class="lnr lnr-database"></span> tanggal</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> jam</p>
 							<p class="post-text"><span class="lnr lnr-map"></span> alamat</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> penyelengara</p>
-						</a>
+ -->							</tr>
+							</table>
+						</a>	
 					</div>
 
 					<div class="single-popular-post">
 						<a href="">
-							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt="">
-							<hr style="background: #fff;">
+						<table>
+							<tr>
+							<td style="padding: 20px">	
+							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt=""></td>
+							<td>
 							<h4>Nama Event</h4>
 							<h6>Kategori Event</h6>
 							<p class="post-text">
 								deskripsi event 100 kata (Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temporinc ididunt ut dolore magna aliqua.)
 							</p>
-							<hr style="background: #fff;">
+							</td>
+<!-- 							<hr style="background: #fff;">
 							<p class="post-text"><span class="lnr lnr-database"></span> tanggal</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> jam</p>
 							<p class="post-text"><span class="lnr lnr-map"></span> alamat</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> penyelengara</p>
-						</a>
+ -->							</tr>
+							</table>
+						</a>	
 					</div>
 					
 					<div class="single-popular-post">
 						<a href="">
-							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt="">
-							<hr style="background: #fff;">
+							<table>
+							<tr>
+							<td style="padding: 20px">	
+							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt=""></td>
+							<td>
 							<h4>Nama Event</h4>
 							<h6>Kategori Event</h6>
 							<p class="post-text">
 								deskripsi event 100 kata (Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temporinc ididunt ut dolore magna aliqua.)
 							</p>
-							<hr style="background: #fff;">
+							</td>
+<!-- 							<hr style="background: #fff;">
 							<p class="post-text"><span class="lnr lnr-database"></span> tanggal</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> jam</p>
 							<p class="post-text"><span class="lnr lnr-map"></span> alamat</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> penyelengara</p>
+ -->							</tr>
+							</table>
 						</a>
 					</div>
 
 					<div class="single-popular-post">
 						<a href="">
-							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt="">
-							<hr style="background: #fff;">
+							<table>
+							<tr>
+							<td style="padding: 20px">	
+							<img class="img-fluid" src="<?php echo base_url(); ?>assets/website/img/lain/r1.jpg" alt=""></td>
+							<td>
 							<h4>Nama Event</h4>
 							<h6>Kategori Event</h6>
 							<p class="post-text">
 								deskripsi event 100 kata (Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temporinc ididunt ut dolore magna aliqua.)
 							</p>
-							<hr style="background: #fff;">
+							</td>
+<!-- 							<hr style="background: #fff;">
 							<p class="post-text"><span class="lnr lnr-database"></span> tanggal</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> jam</p>
 							<p class="post-text"><span class="lnr lnr-map"></span> alamat</p>
 							<p class="post-text"><span class="lnr lnr-database"></span> penyelengara</p>
+ -->							</tr>
+							</table>
 						</a>
 					</div>
 					

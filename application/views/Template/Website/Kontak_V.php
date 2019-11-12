@@ -18,7 +18,7 @@
 				<div class="map-wrap" style="width:100%; height: 445px;" id="map"></div>
 				<div class="col-lg-4 d-flex flex-column">
 					<!-- <a class="contact-btns" href="#">Submit Your CV</a> -->
-					<a class="contact-btns" href="<?= site_url(); ?>Buat_Event">BUat Event</a>
+					<a class="contact-btns" href="<?= site_url(); ?>Buat_Event">Buat Event</a>
 					<!-- <a class="contact-btns" href="#">Create New Account</a> -->
 				</div>
 				<div class="col-lg-8">

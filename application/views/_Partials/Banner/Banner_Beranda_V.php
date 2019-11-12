@@ -7,6 +7,8 @@
                 <h1 class="text-white">
                     <span>Bosevent</span>
                 </h1>
+                <!-- <img src="<?php echo base_url(); ?>assets/website/img/logo/logobose3.png"> -->
+                <!-- <br><br> -->
                 <p class="text-white">
                     Tempatnya bikin dan cari segala event dengan lebih mudah kapan saja dan dimana saja
                 </p>

@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row align-items-center justify-content-between d-flex">
 			<div id="logo">
-				<a href="index.html"><img src="#" alt="" title="" /></a>
+				<a href="index.html"><img src="<?php echo base_url(); ?>assets/website/img/logo/logobose.png" alt="" title="" /></a>
 			</div>
 			<nav id="nav-menu-container">
 				<ul class="nav-menu">
